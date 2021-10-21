@@ -5,3 +5,4 @@ Este script está escrito en `python 3` y con él podrás realizar la máquina [
 ```sql
 python3 autopwnd.py <ip address>
 ```
+![autopwnd](https://github.com/hacknotes/TryHackMe/blob/main/Mustacchio/autopwnd.png)
